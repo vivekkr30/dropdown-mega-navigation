@@ -1,6 +1,6 @@
 $(document).ready(function(){
-    $('.navbar-toggler').click(function(){
-        $('.navbar-collapse').slideToggle(300);
+    $('.navigation-toggler').click(function(){
+        $('.navigation-collapse').slideToggle(300);
     });
     
     smallScreenMenu();
